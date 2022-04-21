@@ -1,0 +1,12 @@
+
+**Scenerio: your scenerio**
+<details><summary><strong> 1. Your Question Here </strong></summary>
+
+- [x] Option 1
+- [ ] Option 2
+- [ ] Option 3
+- [ ] Option 4
+
+</details>
+
+Reference links or explanation: [Name of link](www.google.com)
