@@ -1,6 +1,8 @@
+---
 
-**Scenerio: your scenerio**
-<details><summary><strong> 1. Your Question Here </strong></summary>
+**1. Que:** your scenerio
+
+<details><summary><strong> Your Question Here </strong></summary>
 
 - [x] Option 1
 - [ ] Option 2
