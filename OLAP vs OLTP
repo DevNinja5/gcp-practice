@@ -1,0 +1,15 @@
+Relational Databases - OLAP vs OLTP
+
+a. OLAP and OLTP use similar data structures
+b. BUT very different approach in how data is stored
+c. OLTP databases use row storage
+     * Each table row is stored together
+     * Efficient for processing small transactions
+d. OLAP databases use columnar storage
+     * Each table column is stored together
+     * High compression - store petabytes of data efficiently
+     * Distribute data - one table in multiple cluster nodes
+     * Execute single query across multiple nodes -
+     * Complex queries can be executed efficiently
+     
+     
