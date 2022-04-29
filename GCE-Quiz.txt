@@ -1,0 +1,27 @@
+Q.1. Which of these can be used to monitor CPU utilization, Network Bytes (in/out), Disk Throughput/IOPS of a VM?
+
+1. Cloud Logging
+2. Cloud Monitoring
+
+Q.2. Can you change the Machine Type (and the number of vCPUs and memory) of a VM?
+
+1. Yes, when it stopped.
+2. Yes, Even when its running
+3. No, We can't
+
+Q.3. Which of these is the preferred option to reduce the launch time of a VM instance?
+
+1. Statup Script
+2. Custom Image
+
+Q.4. How can you avoid specifying all the VM instance details every time you create a VM?
+
+1. Create an instance Template.
+2. Create a custome Image.
+3. Create a startup script.
+
+Q.5. What does 2 in the Machine Type e2-standard-2 represent?
+
+1. 2 vCPUs
+2. 2 GB memory
+3. Machine Family
